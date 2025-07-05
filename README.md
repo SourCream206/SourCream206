@@ -1,5 +1,5 @@
 # 👋 About Me:
-🧑‍🎓First year computer engineering student at TMU<br>🔍Passionate about lifelong learning and staying curious<br>🧠Trying to learn more about ML<br>🎨Love 3D modeling, writing, and creative projects
+🧑‍🎓Computer engineering student at TMU<br>🔍Passionate about lifelong learning and staying curious<br>🧠Trying to learn more about ML<br>🎨Love 3D modeling, writing, and creative projects
 
 
 # 🧑‍💻 Tech Stack:
