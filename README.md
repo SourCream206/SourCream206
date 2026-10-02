@@ -10,25 +10,11 @@
 
 ---
 
-### 🚀 About me
-- 🎓 Computer Engineering student at **Toronto Metropolitan University (TMU)**
-- 🔭 Currently working on: _add your project here_
-- 🌱 Currently learning: _add what you're learning_
-- 📫 Reach me: _add email / LinkedIn_
-
-### 🛠️ Tech stack
-<!-- Edit these to match what you actually use -->
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📊 Stats
-<div align="center">
+### About me
+- Computer Engineering student at **Toronto Metropolitan University (TMU)**
+- Reach me at sehijpalayush@gmail.com OR www.linkedin.com/in/ayush-sehijpal-8b39682a0
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourCream206&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=SourCream206&theme=onedark&hide_border=true&show_icons=true)
 
 </div>
 
