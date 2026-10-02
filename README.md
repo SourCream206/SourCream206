@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4cc9f0,100:06d6a0&height=140&section=header&text=Hey,%20I'm%20Ayush&fontSize=36&fontColor=0b0f1a&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4cc9f0,100:06d6a0&height=140&section=header&text=Hey,%20I'm%20Ayush&fontSize=36&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
 <br>
 
@@ -12,6 +12,7 @@
 <br>
 
 <div align="center">
+
 
 Computer Engineering student at **Toronto Metropolitan University (TMU)**
 
