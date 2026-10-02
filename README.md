@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4cc9f0,100:06d6a0&height=140&section=header&text=Hey,%20I'm%20SourCream206&fontSize=36&fontColor=0b0f1a&fontAlignY=38" width="100%"/>
-
-<a href="https://github.com/SourCream206">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06D6A0&center=true&vCenter=true&width=520&lines=Computer+Engineering+%40+TMU;Building+things+that+(mostly)+work;Always+learning+something+new" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4cc9f0,100:06d6a0&height=140&section=header&text=Hey,%20I'm%20Ayush&fontSize=36&fontColor=0b0f1a&fontAlignY=38" width="100%"/>
 
 <br><br>
 
