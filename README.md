@@ -6,9 +6,6 @@
 
 <img src="./space-invaders.svg" alt="Space Invaders" width="720"/>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=4CC9F0&center=true&vCenter=true&width=480&lines=Computer+Engineering+student+at+TMU" alt="Computer Engineering student at TMU"/>
 
 </div>
 
@@ -27,7 +24,6 @@ Computer Engineering student at **Toronto Metropolitan University (TMU)**
 
 <br>
 
-## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourCream206&theme=onedark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
