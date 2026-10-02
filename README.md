@@ -13,8 +13,6 @@
 
 <div align="center">
 
-## About me
-
 Computer Engineering student at **Toronto Metropolitan University (TMU)**
 
 <br>
